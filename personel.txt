@@ -1,11 +1,8 @@
 oğuz,900
 kadir,789
-oğuz,900
-kadir,789
-oğuz,900
-kadir,789
-oğuz,900
-kadir,789
-oğuz,900
-kadir,789
 Remzi,7878
+Harun,6161
+Osman,8989
+Adnan,9090
+Emir,8721
+Ela ,2561

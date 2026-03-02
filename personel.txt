@@ -1,0 +1,11 @@
+oğuz,900
+kadir,789
+oğuz,900
+kadir,789
+oğuz,900
+kadir,789
+oğuz,900
+kadir,789
+oğuz,900
+kadir,789
+Remzi,7878

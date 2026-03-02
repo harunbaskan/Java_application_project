@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+bin/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+
+# Geçici veri dosyaları (Eğer istersen)
+# *.txt

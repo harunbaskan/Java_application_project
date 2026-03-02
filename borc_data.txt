@@ -1,5 +1,4 @@
 Kalekim,23000.0,12.10.2023,Banka Havalesi
 Yayla Musluk,30000.0,21.11.2025,Kredi Kartı
 Fırat Pen,34000.0,08.07.2026,Nakit
-aa,2000.0,10.10.2025,Nakit
-aa,22222.0,22,1212,Kredi Kartı
+

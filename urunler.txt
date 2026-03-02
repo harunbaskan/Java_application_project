@@ -6,4 +6,4 @@ Kum,20.0,56
 Çimento,250.0,55
 Çuval,12.0,124
 Büyük Çekiç,45.0,22
-akıllı vida,2.0,233
+git
